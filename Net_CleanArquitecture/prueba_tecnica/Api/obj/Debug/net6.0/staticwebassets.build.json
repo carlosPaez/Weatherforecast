@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "/wgO8HU9e6wGLMvTLVQV5hMGHrTrCr2mX/vUVOrpDwI=",
+  "Source": "Api",
+  "BasePath": "_content/Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Api\\wwwroot",
+      "Source": "Api",
+      "ContentRoot": "D:\\proyectos-carlos\\prueba_tecnica\\Api\\wwwroot\\",
+      "BasePath": "_content/Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

@@ -1,0 +1,17 @@
+D:\proyectos-carlos\prueba_tecnica\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.AssemblyReference.cache
+D:\proyectos-carlos\prueba_tecnica\Infrastructure\obj\Debug\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\proyectos-carlos\prueba_tecnica\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfoInputs.cache
+D:\proyectos-carlos\prueba_tecnica\Infrastructure\obj\Debug\net6.0\Infrastructure.AssemblyInfo.cs
+D:\proyectos-carlos\prueba_tecnica\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\proyectos-carlos\prueba_tecnica\Infrastructure\bin\Debug\net6.0\Infrastructure.deps.json
+D:\proyectos-carlos\prueba_tecnica\Infrastructure\bin\Debug\net6.0\Infrastructure.dll
+D:\proyectos-carlos\prueba_tecnica\Infrastructure\bin\Debug\net6.0\ref\Infrastructure.dll
+D:\proyectos-carlos\prueba_tecnica\Infrastructure\bin\Debug\net6.0\Infrastructure.pdb
+D:\proyectos-carlos\prueba_tecnica\Infrastructure\bin\Debug\net6.0\Application.dll
+D:\proyectos-carlos\prueba_tecnica\Infrastructure\bin\Debug\net6.0\Domain.dll
+D:\proyectos-carlos\prueba_tecnica\Infrastructure\bin\Debug\net6.0\Application.pdb
+D:\proyectos-carlos\prueba_tecnica\Infrastructure\bin\Debug\net6.0\Domain.pdb
+D:\proyectos-carlos\prueba_tecnica\Infrastructure\obj\Debug\net6.0\Infrastructure.csproj.CopyComplete
+D:\proyectos-carlos\prueba_tecnica\Infrastructure\obj\Debug\net6.0\Infrastructure.dll
+D:\proyectos-carlos\prueba_tecnica\Infrastructure\obj\Debug\net6.0\ref\Infrastructure.dll
+D:\proyectos-carlos\prueba_tecnica\Infrastructure\obj\Debug\net6.0\Infrastructure.pdb
